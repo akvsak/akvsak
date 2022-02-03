@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akvsak
+- 👋 Hi, I’m Ashok @akvsak
 - 👀 I’m interested in scientific computing and scientific machine learning
 - 🌱 I’m currently learning SCIML.AI project
 - 💞️ I’m looking to collaborate on scientific & ML coding projects
